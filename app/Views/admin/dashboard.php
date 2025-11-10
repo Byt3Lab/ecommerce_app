@@ -1,11 +1,13 @@
-    <div class="position-relative iq-banner">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+   <div class="position-relative iq-banner">
         <!--Nav Start-->
         <nav class="nav navbar navbar-expand-xl navbar-light iq-navbar">
             <div class="container-fluid navbar-inner">
                 <a href="../dashboard/index.html" class="navbar-brand">
                     <!--Logo start-->
-                    <div class="logo-main">
-                        <div class="logo-normal">
+                    <div class="logo-main">                               
+                        <div class="logo-normal">                         
                             <svg class="text-primary icon-30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <rect x="-0.757324" y="19.2427" width="28" height="4" rx="2" transform="rotate(-45 -0.757324 19.2427)" fill="currentColor"/>
                                 <rect x="7.72803" y="27.728" width="28" height="4" rx="2" transform="rotate(-45 7.72803 27.728)" fill="currentColor"/>
@@ -23,7 +25,7 @@
                         </div>
                     </div>
                     <!--logo End-->
-                    <h4 class="logo-title">Hope UI</h4>
+                    <h4 class="logo-title">Experience utilisateur</h4>
                 </a>
                 <div class="sidebar-toggle" data-toggle="sidebar" data-active="true">
                     <i class="icon">
@@ -56,7 +58,7 @@
                       <path d="M21.4274 2.5783C20.9274 2.0673 20.1874 1.8783 19.4974 2.0783L3.40742 6.7273C2.67942 6.9293 2.16342 7.5063 2.02442 8.2383C1.88242 8.9843 2.37842 9.9323 3.02642 10.3283L8.05742 13.4003C8.57342 13.7163 9.23942 13.6373 9.66642 13.2093L15.4274 7.4483C15.7174 7.1473 16.1974 7.1473 16.4874 7.4483C16.7774 7.7373 16.7774 8.2083 16.4874 8.5083L10.7164 14.2693C10.2884 14.6973 10.2084 15.3613 10.5234 15.8783L13.5974 20.9283C13.9574 21.5273 14.5774 21.8683 15.2574 21.8683C15.3374 21.8683 15.4274 21.8683 15.5074 21.8573C16.2874 21.7583 16.9074 21.2273 17.1374 20.4773L21.9074 4.5083C22.1174 3.8283 21.9274 3.0883 21.4274 2.5783Z" fill="currentColor"></path>
                       <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.01049 16.8079C2.81849 16.8079 2.62649 16.7349 2.48049 16.5879C2.18749 16.2949 2.18749 15.8209 2.48049 15.5279L3.84549 14.1619C4.13849 13.8699 4.61349 13.8699 4.90649 14.1619C5.19849 14.4549 5.19849 14.9299 4.90649 15.2229L3.54049 16.5879C3.39449 16.7349 3.20249 16.8079 3.01049 16.8079ZM6.77169 18.0003C6.57969 18.0003 6.38769 17.9273 6.24169 17.7803C5.94869 17.4873 5.94869 17.0133 6.24169 16.7203L7.60669 15.3543C7.89969 15.0623 8.37469 15.0623 8.66769 15.3543C8.95969 15.6473 8.95969 16.1223 8.66769 16.4153L7.30169 17.7803C7.15569 17.9273 6.96369 18.0003 6.77169 18.0003ZM7.02539 21.5683C7.17139 21.7153 7.36339 21.7883 7.55539 21.7883C7.74739 21.7883 7.93939 21.7153 8.08539 21.5683L9.45139 20.2033C9.74339 19.9103 9.74339 19.4353 9.45139 19.1423C9.15839 18.8503 8.68339 18.8503 8.39039 19.1423L7.02539 20.5083C6.73239 20.8013 6.73239 21.2753 7.02539 21.5683Z" fill="currentColor"></path>
                     </svg>
-                    Go Pro
+                    Devenir pro
                   </a>
                 </li>
                 <li class="nav-item dropdown">
@@ -68,11 +70,11 @@
                         <div class="m-0 border-0 shadow-none rounded card">
                             <div class="p-0 ">
                                 <ul class="p-0 list-group list-group-flush">
-                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-03.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Spanish</a></li>
-                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-04.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Italian</a></li>
-                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-02.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>French</a></li>
-                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-05.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>German</a></li>
-                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-06.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Japanese</a></li>
+                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-03.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>ESpagne</a></li>
+                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-04.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Italie</a></li>
+                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-02.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>France</a></li>
+                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-05.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Chine</a></li>
+                                    <li class="iq-sub-card list-group-item"><a class="p-0 d-flex justify-content-start d-flex align-items-center" href="#"><img src="assets/admin/images/Flag/flag-06.png" alt="img-flaf" class="img-fluid me-2" style="width: 15px;height: 15px;min-width: 15px;"/>Japon</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -90,7 +92,7 @@
                       <div class="m-0 shadow-none card">
                         <div class="py-3 card-header d-flex justify-content-between bg-primary rounded-top">
                             <div class="header-title">
-                              <h5 class="mb-0 text-white">All Notifications</h5>
+                              <h5 class="mb-0 text-white">Tout notification</h5>
                             </div>
                         </div>
                         <div class="p-0 card-body">
@@ -98,13 +100,13 @@
                               <div class="d-flex align-items-center">
                                   <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/01.png" alt="">
                                   <div class="ms-3 w-100">
-                                    <h6 class="mb-0 text-start iq-text">Emma Watson Bni</h6>
+                                    <h6 class="mb-0 text-start iq-text"></h6>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <p class="mb-0">95 MB</p>
-                                        <small class="float-end font-size-12">Just Now</small>
+                                        <small class="float-end font-size-12">juste maintenant</small>
                                     </div>
                                   </div>
-                              </div>
+                              </div>                                              
                             </a>
                             <a href="#" class="iq-sub-card">
                               <div class="d-flex align-items-center">
@@ -112,10 +114,10 @@
                                     <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/02.png" alt="">
                                   </div>
                                   <div class="ms-3 w-100">
-                                    <h6 class="mb-0 text-start  iq-text">New customer is join</h6>
+                                    <h6 class="mb-0 text-start  iq-text">Nouveau client rejoint!</h6>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <p class="mb-0">Cyst Bni</p>
-                                        <small class="float-end font-size-12">5 days ago</small>
+                                        <small class="float-end font-size-12">5 jours</small>
                                     </div>
                                   </div>
                               </div>
@@ -124,10 +126,10 @@
                               <div class="d-flex align-items-center">
                                   <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/03.png" alt="">
                                   <div class="ms-3 w-100">
-                                    <h6 class="mb-0 text-start iq-text">Two customer is left</h6>
+                                    <h6 class="mb-0 text-start iq-text">Deux clients sont parties</h6>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <p class="mb-0">Cyst Bni</p>
-                                        <small class="float-end font-size-12">2 days ago</small>
+                                        <small class="float-end font-size-12">2 jours</small>
                                     </div>
                                   </div>
                               </div>
@@ -136,10 +138,10 @@
                               <div class="d-flex align-items-center">
                                   <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/04.png" alt="">
                                   <div class="w-100 ms-3">
-                                    <h6 class="mb-0 text-start  iq-text">New Mail from Fenny</h6>
+                                    <h6 class="mb-0 text-start  iq-text">nouveau mail pour Brayan</h6>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <p class="mb-0">Cyst Bni</p>
-                                        <small class="float-end font-size-12">3 days ago</small>
+                                        <small class="float-end font-size-12">3 jours </small>
                                     </div>
                                   </div>
                               </div>
@@ -160,7 +162,7 @@
                       <div class="m-0 shadow-none card">
                         <div class="py-3 card-header d-flex justify-content-between bg-primary rounded-top">
                             <div class="header-title">
-                              <h5 class="mb-0 text-white">All Message</h5>
+                              <h5 class="mb-0 text-white">Tous les messages</h5>
                             </div>
                         </div>
                         <div class="p-0 card-body ">
@@ -171,7 +173,7 @@
                                   </div>
                                   <div class="ms-3">
                                     <h6 class="mb-0 ">Bni Emma Watson</h6>
-                                    <small class="float-start font-size-12">13 Jun</small>
+                                    <small class="float-start font-size-12">13 Juin</small>
                                   </div>
                               </div>
                             </a>
@@ -182,7 +184,7 @@
                                   </div>
                                   <div class="ms-3">
                                     <h6 class="mb-0 ">Lorem Ipsum Watson</h6>
-                                    <small class="float-start font-size-12">20 Apr</small>
+                                    <small class="float-start font-size-12">20 Avril</small>
                                   </div>
                               </div>
                             </a>
@@ -192,8 +194,8 @@
                                     <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/03.png" alt="">
                                   </div>
                                   <div class="ms-3">
-                                    <h6 class="mb-0 ">Why do we use it?</h6>
-                                    <small class="float-start font-size-12">30 Jun</small>
+                                    <h6 class="mb-0 ">Pour quoi nous l'utisons?</h6>
+                                    <small class="float-start font-size-12">30 Juin</small>
                                   </div>
                               </div>
                             </a>
@@ -203,7 +205,7 @@
                                     <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/04.png" alt="">
                                   </div>
                                   <div class="ms-3">
-                                    <h6 class="mb-0 ">Variations Passages</h6>
+                                    <h6 class="mb-0 ">Passage de variation</h6>
                                     <small class="float-start font-size-12">12 Sep</small>
                                   </div>
                               </div>
@@ -214,7 +216,7 @@
                                     <img class="p-1 avatar-40 rounded-pill bg-primary-subtle" src="assets/admin/images/shapes/05.png" alt="">
                                   </div>
                                   <div class="ms-3">
-                                    <h6 class="mb-0 ">Lorem Ipsum generators</h6>
+                                    <h6 class="mb-0 ">Generateur de texte</h6>
                                     <small class="float-start font-size-12">5 Dec</small>
                                   </div>
                               </div>
@@ -232,15 +234,15 @@
                     <img src="assets/admin/images/avatars/avtar_5.png" alt="User-Profile" class="theme-color-yellow-img img-fluid avatar avatar-50 avatar-rounded">
                     <img src="assets/admin/images/avatars/avtar_3.png" alt="User-Profile" class="theme-color-pink-img img-fluid avatar avatar-50 avatar-rounded">
                     <div class="caption ms-3 d-none d-md-block ">
-                        <h6 class="mb-0 caption-title">Austin Robertson</h6>
-                        <p class="mb-0 caption-sub-title">Marketing Administrator</p>
+                        <h6 class="mb-0 caption-title">Bryan MINKOE</h6>
+                        <p class="mb-0 caption-sub-title">Administrateur marketing</p>
                     </div>
                   </a>
                   <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                     <li><a class="dropdown-item" href="../dashboard/app/user-profile.html">Profile</a></li>
-                    <li><a class="dropdown-item" href="../dashboard/app/user-privacy-setting.html">Privacy Setting</a></li>
+                    <li><a class="dropdown-item" href="../dashboard/app/user-privacy-setting.html">Parametre de confidentialite</a></li>
                     <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="../dashboard/auth/sign-in.html">Logout</a></li>
+                    <li><a class="dropdown-item" href="../dashboard/auth/sign-in.html">Deconnection</a></li>
                   </ul>
                 </li>
               </ul>
@@ -253,8 +255,8 @@
                     <div class="col-md-12">
                         <div class="flex-wrap d-flex justify-content-between align-items-center">
                             <div>
-                                <h1>Hello Devs!</h1>
-                                <p>We are on a mission to help developers like you build successful projects for FREE.</p>
+                                <h1>Salut Brayan!</h1>
+                                <p>Commerce en ligne .</p>
                             </div>
                             <div>
                                 <a href="" class="btn btn-link btn-soft-light">
@@ -262,7 +264,7 @@
                                         <path d="M11.8251 15.2171H12.1748C14.0987 15.2171 15.731 13.985 16.3054 12.2764C16.3887 12.0276 16.1979 11.7713 15.9334 11.7713H14.8562C14.5133 11.7713 14.2362 11.4977 14.2362 11.16C14.2362 10.8213 14.5133 10.5467 14.8562 10.5467H15.9005C16.2463 10.5467 16.5263 10.2703 16.5263 9.92875C16.5263 9.58722 16.2463 9.31075 15.9005 9.31075H14.8562C14.5133 9.31075 14.2362 9.03619 14.2362 8.69849C14.2362 8.35984 14.5133 8.08528 14.8562 8.08528H15.9005C16.2463 8.08528 16.5263 7.8088 16.5263 7.46728C16.5263 7.12575 16.2463 6.84928 15.9005 6.84928H14.8562C14.5133 6.84928 14.2362 6.57472 14.2362 6.23606C14.2362 5.89837 14.5133 5.62381 14.8562 5.62381H15.9886C16.2483 5.62381 16.4343 5.3789 16.3645 5.13113C15.8501 3.32401 14.1694 2 12.1748 2H11.8251C9.42172 2 7.47363 3.92287 7.47363 6.29729V10.9198C7.47363 13.2933 9.42172 15.2171 11.8251 15.2171Z" fill="currentColor"></path>
                                         <path opacity="0.4" d="M19.5313 9.82568C18.9966 9.82568 18.5626 10.2533 18.5626 10.7823C18.5626 14.3554 15.6186 17.2627 12.0005 17.2627C8.38136 17.2627 5.43743 14.3554 5.43743 10.7823C5.43743 10.2533 5.00345 9.82568 4.46872 9.82568C3.93398 9.82568 3.5 10.2533 3.5 10.7823C3.5 15.0873 6.79945 18.6413 11.0318 19.1186V21.0434C11.0318 21.5715 11.4648 22.0001 12.0005 22.0001C12.5352 22.0001 12.9692 21.5715 12.9692 21.0434V19.1186C17.2006 18.6413 20.5 15.0873 20.5 10.7823C20.5 10.2533 20.066 9.82568 19.5313 9.82568Z" fill="currentColor"></path>
                                     </svg>
-                                    Announcements
+                                    Annonces
                                 </a>
                             </div>
                         </div>
@@ -295,7 +297,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Total Sales</p>
+                                    <p  class="mb-2">Vente totale</p>
                                     <h4 class="counter">$560K</h4>
                                     </div>
                                 </div>
@@ -310,7 +312,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Total Profit</p>
+                                    <p  class="mb-2">Benefice total</p>
                                     <h4 class="counter">$185K</h4>
                                     </div>
                                 </div>
@@ -325,7 +327,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Total Cost</p>
+                                    <p  class="mb-2">Cout total</p>
                                     <h4 class="counter">$375K</h4>
                                     </div>
                                 </div>
@@ -355,7 +357,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Net Income</p>
+                                    <p  class="mb-2">Benefice net</p>
                                     <h4 class="counter">$150K</h4>
                                     </div>
                                 </div>
@@ -370,7 +372,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Today</p>
+                                    <p  class="mb-2">Aujourd'hui</p>
                                     <h4 class="counter">$4600</h4>
                                     </div>
                                 </div>
@@ -385,7 +387,7 @@
                                     </svg>
                                     </div>
                                     <div class="progress-detail">
-                                    <p  class="mb-2">Members</p>
+                                    <p  class="mb-2">Membres</p>
                                     <h4 class="counter">11.2M</h4>
                                     </div>
                                 </div>
@@ -404,7 +406,7 @@
                         <div class="flex-wrap card-header d-flex justify-content-between align-items-center">
                             <div class="header-title">
                                 <h4 class="card-title">$855.8K</h4>
-                                <p class="mb-0">Gross Sales</p>          
+                                <p class="mb-0">Ventes Brutes</p>          
                             </div>
                             <div class="d-flex align-items-center align-self-center">
                                 <div class="d-flex align-items-center text-primary">
@@ -414,7 +416,7 @@
                                     </g>
                                     </svg>
                                     <div class="ms-2">
-                                    <span class="text-gray">Sales</span>
+                                    <span class="text-gray">Ventes</span>
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center ms-3 text-info">
@@ -424,18 +426,18 @@
                                     </g>
                                     </svg>
                                     <div class="ms-2">
-                                    <span class="text-gray">Cost</span>
+                                    <span class="text-gray">Cout</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="dropdown">
                                 <a href="#" class="text-gray dropdown-toggle" id="dropdownMenuButton22" data-bs-toggle="dropdown" aria-expanded="false">
-                                This Week
+                                    Cette semaine
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-end custom-dropdown-menu-end" aria-labelledby="dropdownMenuButton22">
-                                    <li><a class="dropdown-item" href="#">This Week</a></li>
-                                    <li><a class="dropdown-item" href="#">This Month</a></li>
-                                    <li><a class="dropdown-item" href="#">This Year</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette semaine</a></li>
+                                    <li><a class="dropdown-item" href="#">Ce mois</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette annee</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -448,16 +450,16 @@
                         <div class="card" data-aos="fade-up" data-aos-delay="900">
                         <div class="flex-wrap card-header d-flex justify-content-between">
                             <div class="header-title">
-                                <h4 class="card-title">Earnings</h4>            
+                                <h4 class="card-title">Revenue</h4>            
                             </div>   
                             <div class="dropdown">
                                 <a href="#" class="text-gray dropdown-toggle" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                                    This Week
+                                    Cette semaine
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-end custom-dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">This Week</a></li>
-                                    <li><a class="dropdown-item" href="#">This Month</a></li>
-                                    <li><a class="dropdown-item" href="#">This Year</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette semaine</a></li>
+                                    <li><a class="dropdown-item" href="#">Ce mois</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette annee</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -472,7 +474,7 @@
                                         </g>
                                     </svg>
                                     <div class="ms-3">
-                                        <span class="text-gray">Fashion</span>
+                                        <span class="text-gray">Mode</span>
                                         <h6>251K</h6>
                                     </div>
                                     </div>
@@ -483,7 +485,7 @@
                                         </g>
                                     </svg>
                                     <div class="ms-3">
-                                        <span class="text-gray">Accessories</span>
+                                        <span class="text-gray">Accessoires</span>
                                         <h6>176K</h6>
                                     </div>
                                     </div>
@@ -496,16 +498,16 @@
                         <div class="card" data-aos="fade-up" data-aos-delay="1000">
                         <div class="flex-wrap card-header d-flex justify-content-between">
                             <div class="header-title">
-                                <h4 class="card-title">Conversions</h4>            
+                                <h4 class="card-title">Convertions</h4>            
                             </div>
                             <div class="dropdown">
                                 <a href="#" class="text-gray dropdown-toggle" id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
-                                    This Week
+                                    Cette semaine
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-end custom-dropdown-menu-end" aria-labelledby="dropdownMenuButton3">
-                                    <li><a class="dropdown-item" href="#">This Week</a></li>
-                                    <li><a class="dropdown-item" href="#">This Month</a></li>
-                                    <li><a class="dropdown-item" href="#">This Year</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette semaine</a></li>
+                                    <li><a class="dropdown-item" href="#">Ce mois</a></li>
+                                    <li><a class="dropdown-item" href="#">Cette annee</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -523,7 +525,7 @@
                                     <svg class ="me-2 text-primary icon-24" width="24"  viewBox="0 0 24 24">
                                     <path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z" />
                                     </svg>
-                                    15 new acquired this month
+                                    15 nouveaux acquis ce mois
                                 </p>            
                             </div>
                         </div>
@@ -534,8 +536,8 @@
                                     <tr>
                                         <th>COMPANIES</th>
                                         <th>CONTACTS</th>
-                                        <th>ORDER</th>
-                                        <th>COMPLETION</th>
+                                        <th>AUTRE</th>
+                                        <th>Achevement</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -543,19 +545,19 @@
                                         <td>
                                             <div class="d-flex align-items-center">
                                                 <img class="rounded bg-primary-subtle img-fluid avatar-40 me-3" src="assets/admin/images/shapes/01.png" alt="profile">
-                                                <h6>Addidis Sportwear</h6>
+                                                <h6>Produit</h6>
                                             </div>
                                         </td>
                                         <td>
                                             <div class="iq-media-group iq-media-group-1">
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">SP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">PP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">MM</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                             </div>
                                         </td>
@@ -573,16 +575,16 @@
                                         <td>
                                             <div class="d-flex align-items-center">
                                                 <img class="rounded bg-primary-subtle img-fluid avatar-40 me-3" src="assets/admin/images/shapes/05.png" alt="profile">
-                                                <h6>Netflixer Platforms</h6>
+                                                <h6>Plateforme des produits</h6>
                                             </div>
                                         </td>
                                         <td>
                                             <div class="iq-media-group iq-media-group-1">
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">SP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">PP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                             </div>
                                         </td>
@@ -600,16 +602,16 @@
                                         <td>
                                             <div class="d-flex align-items-center">
                                                 <img class="rounded bg-primary-subtle img-fluid avatar-40 me-3" src="assets/admin/images/shapes/02.png" alt="profile">
-                                                <h6>Shopifi Stores</h6>
+                                                <h6>NomProduit</h6>
                                             </div>
                                         </td>
                                         <td>                                 
                                             <div class="iq-media-group iq-media-group-1">
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">PP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">produit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">TP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">produit</div>
                                                 </a>
                                             </div>
                                         </td>
@@ -627,22 +629,22 @@
                                         <td>
                                             <div class="d-flex align-items-center">
                                                 <img class="rounded bg-primary-subtle img-fluid avatar-40 me-3" src="assets/admin/images/shapes/03.png" alt="profile">
-                                                <h6>Bootstrap Technologies</h6>
+                                                <h6>produit medical</h6>
                                             </div>
                                         </td>
                                         <td>
                                             <div class="iq-media-group iq-media-group-1">
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">SP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">PP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">MM</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                                 <a href="#" class="iq-media-1">
-                                                <div class="icon iq-icon-box-3 rounded-pill">TP</div>
+                                                <div class="icon iq-icon-box-3 rounded-pill">NomProduit</div>
                                                 </a>
                                             </div>
                                         </td>
@@ -697,7 +699,7 @@
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div>
                                     <h5 class="font-weight-bold">VISA </h5>
-                                    <P class="mb-0">PREMIUM ACCOUNT</P>  
+                                    <P class="mb-0">Compte Premium </P>  
                                     </div>
                                     <div class="master-card-content">
                                     <svg class="master-card-1 icon-60" width="60"  viewBox="0 0 24 24">
@@ -717,8 +719,8 @@
                                     </div>
                                 </div>
                                 <div class="mb-2 d-flex align-items-center justify-content-between">
-                                    <p class="mb-0">Card holder</p>
-                                    <p class="mb-0">Expire Date</p>
+                                    <p class="mb-0">Porte carte</p>
+                                    <p class="mb-0">carte expiree</p>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
                                     <h6>Mike Smith</h6>
@@ -738,7 +740,7 @@
                                     </div>
                                     <div class="ms-3">
                                     <h5>1153</h5>
-                                    <small class="mb-0">Products</small>
+                                    <small class="mb-0">Produits</small>
                                     </div>
                                 </div>
                                 <div class="d-flex align-itmes-center">
@@ -751,7 +753,7 @@
                                     </div>
                                     <div class="ms-3">
                                     <h5>81K</h5>
-                                    <small class="mb-0">Order Served</small>
+                                    <small class="mb-0">Ordonance rendu</small>
                                     </div>
                                 </div>
                             </div>
@@ -762,11 +764,11 @@
                                     <span class="badge bg-success rounded-pill">YoY 24%</span>
                                     </div>
                                 </div>
-                                <p class="text-info">Life time sales</p>
+                                <p class="text-info">Vente a vie </p>
                             </div>
                             <div class="grid-cols-2 d-grid gap-card">
-                                <button class="p-2 btn btn-primary text-uppercase">SUMMARY</button>
-                                <button class="p-2 btn btn-secondary text-uppercase">ANALYTICS</button>
+                                <button class="p-2 btn btn-primary text-uppercase">Sommaire</button>
+                                <button class="p-2 btn btn-secondary text-uppercase">Analitque</button>
                             </div>
                         </div>
                         </div>
@@ -774,12 +776,12 @@
                         <div class="text-center card-body d-flex justify-content-around">
                             <div>
                                 <h2 class="mb-2">750<small>K</small></h2>
-                                <p class="mb-0 text-gray">Website Visitors</p>
+                                <p class="mb-0 text-gray">Visiteurs du site</p>
                             </div>
                             <hr class="hr-vertial">
                             <div>
                                 <h2 class="mb-2">7,500</h2>
-                                <p class="mb-0 text-gray">New Customers</p>
+                                <p class="mb-0 text-gray">Nouveau client</p>
                             </div>
                         </div>
                         </div> 
@@ -793,7 +795,7 @@
                                     <svg class ="me-2 icon-24" width="24" height="24" viewBox="0 0 24 24">
                                     <path fill="#17904b" d="M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z" />
                                     </svg>
-                                    16% this month
+                                    16% Ce mois
                                 </p>
                             </div>
                         </div>
@@ -801,35 +803,35 @@
                             <div class="mb-2  d-flex profile-media align-items-top">
                                 <div class="mt-1 profile-dots-pills border-primary"></div>
                                 <div class="ms-4">
-                                    <h6 class="mb-1 ">$2400, Purchase</h6>
+                                    <h6 class="mb-1 ">Achat</h6>
                                     <span class="mb-0">11 JUL 8:10 PM</span>
                                 </div>
                             </div>
                             <div class="mb-2  d-flex profile-media align-items-top">
                                 <div class="mt-1 profile-dots-pills border-primary"></div>
                                 <div class="ms-4">
-                                    <h6 class="mb-1 ">New order #8744152</h6>
+                                    <h6 class="mb-1 ">Nouvelle commande #8744152</h6>
                                     <span class="mb-0">11 JUL 11 PM</span>
                                 </div>
                             </div>
                             <div class="mb-2  d-flex profile-media align-items-top">
                                 <div class="mt-1 profile-dots-pills border-primary"></div>
                                 <div class="ms-4">
-                                    <h6 class="mb-1 ">Affiliate Payout</h6>
+                                    <h6 class="mb-1 ">Paiement d'affiliation</h6>
                                     <span class="mb-0">11 JUL 7:64 PM</span>
                                 </div>
                             </div>
                             <div class="mb-2  d-flex profile-media align-items-top">
                                 <div class="mt-1 profile-dots-pills border-primary"></div>
                                 <div class="ms-4">
-                                    <h6 class="mb-1 ">New user added</h6>
+                                    <h6 class="mb-1 ">Nouveau utilisateur ajoute</h6>
                                     <span class="mb-0">11 JUL 1:21 AM</span>
                                 </div>
                             </div>
                             <div class="mb-1  d-flex profile-media align-items-top">
                                 <div class="mt-1 profile-dots-pills border-primary"></div>
                                 <div class="ms-4">
-                                    <h6 class="mb-1 ">Product added</h6>
+                                    <h6 class="mb-1 ">Produit ajoute</h6>
                                     <span class="mb-0">11 JUL 4:50 AM</span>
                                 </div>
                             </div>
